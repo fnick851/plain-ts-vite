@@ -1,0 +1,18 @@
+{
+  "name": "plain-ts-vite",
+  "version": "1.0.0",
+  "description": "building things with bare TypeScript and the help of Vite",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
+  },
+  "keywords": [
+    "fun",
+    "vite"
+  ],
+  "author": "Noah",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^0.16.10"
+  }
+}
